@@ -95,6 +95,16 @@ span{
 .facility-row{
     margin-top: 100px;
 }
+#courses{
+    margin-top: 80px;
+}
+.bold{
+    font-weight: 700;
+    color: #413960;
+}
+.cour{
+    padding-top: 80px;
+}
 
 .about-card{
     background-color: rgb(237, 250, 245);
