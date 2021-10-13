@@ -1,0 +1,167 @@
+body{
+    font-family: poppins;
+}
+.navbar-brand{
+    height: 60px;
+    width: 200px;
+}
+.sign-in-btn{
+    background-color: #21B573;
+    border-radius: 33px;
+    height: 43px;
+    width: 104px;
+}
+.bg-nav {
+    background-color: #F0FFF0;
+}
+
+.p-red{
+    font-size: 16px;
+    color: #FD511A;
+}
+.bold-lorem{
+    font-size: 48px;
+    font-style: bold;
+}
+span{
+    color: #21B573;
+}
+.p-grey{
+    color: #6C6B6B;
+    margin-top: 20px;
+}
+.started-btn{
+    height: 43px;
+    width: 153px;
+    background-color: #21B573;
+    border: none;
+    color: white;
+    border-radius: 33px;
+    margin-top: 20px;
+}
+.bg-1{
+    background-color: #F0FFF0;
+
+}
+
+.img-ai{
+    height: 346px;
+    width: 554px;
+    margin-top: 80px;
+    margin-left: 20px;
+}
+.bg{
+    background-color: #F0FFF0;
+    
+}
+.mar{
+    margin-top: 80px;
+}
+
+.box-img{
+    height: 85px;
+    width: 66px;
+    text-align: center;
+}
+.box{
+    background-color: #F8FFFB;
+    height: 270px;
+    width: 250px;
+    border-radius: 10px;
+
+}
+.box2{
+    background-color: #FFFFFF;
+    height: 270px;
+    width: 250px;
+    border-radius: 10px;
+
+}
+.box3{
+    width: 250px;
+    background-color: #F8FFFB;
+    height: 270px;
+    
+    border-radius: 10px;
+
+}
+.box4{
+    background-color: #F8FFFB;
+    height: 270px;
+    width: 250px;
+    border-radius: 10px;
+
+}
+.facility-row{
+    margin-top: 100px;
+}
+
+.about-card{
+    background-color: rgb(237, 250, 245);
+    border-radius: 10px;
+}
+.t{
+    font-weight: 700;
+}
+.card-img-top{
+    padding: 15px 10px;
+}
+.card-text{
+    color: #585859;
+}
+.course-btn{
+    height: 35px;
+    width: 137px;
+    color: white;
+    background-color: #21B573;
+    border-radius: 33px;
+    border: none;
+}
+.calendar{
+    height: 20px;
+    width: 18px;
+    
+}
+.pad{
+    padding: 0 15px;
+    padding-bottom: 15px;
+
+}
+.man-img{
+    height: 120px;
+    width: 120px;
+    margin-left: 280px;
+    
+}
+.testimonial{
+    margin-top: 70px;
+    margin-bottom: 20px;
+}
+.test{
+    margin-top: 100px;
+}
+.test h2{
+    font-weight: 700;
+    color: #000000;
+    text-align: center;
+    margin-left: 50px;
+}
+.test p{
+    margin-right: 40px; 
+    margin-top: 25px;  
+    color: #000000; 
+}
+.bg-footer{
+    background-color: #282531;
+    color: #CDCDCD;
+    margin-top: 100px;
+}
+.element{
+    padding-top: 50px;
+}
+.element h5{
+    color: white;
+}
+footer{
+    padding-bottom: 20px;
+}
